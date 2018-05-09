@@ -28,7 +28,3 @@ geocode.geocodeAddress(argv.address, (error, results) => {
         });
     }
 });
-
-// db2fb5af0b5ea2d8211f54964d94d3a0
-
-    //  https://api.darksky.net/forecast/db2fb5af0b5ea2d8211f54964d94d3a0/42.30938, -71.28148
